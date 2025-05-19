@@ -49,7 +49,7 @@ QuickDoc solves these challenges by offering:
 ```bash
 # Clone the repository
 git clone https://github.com/arjunajaygit/hms-main-main.git
-cd quickdoc
+cd hms-main-main
 
 # Install dependencies
 npm install
